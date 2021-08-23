@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(75, 236, 169);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px solid;
+    border: 10px solid black;
+    padding: 15px;
+    max-width: max-content;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px solid;
+    border: 5px solid black;
+    padding: 7px;
+    max-width: max-content;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagens {
+    border: 10px solid black;
+}

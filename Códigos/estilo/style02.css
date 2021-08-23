@@ -1,0 +1,44 @@
+body {
+    background-color: #1e5583;
+}
+
+#paragrafo01 {
+    font-size: 1.5em;
+    padding-left: 30px;
+    padding-top: px;
+}
+
+#paragrafo02 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+span {
+    background-color: chartreuse;
+}
+
+.format {
+    background-color: darkmagenta;
+    color: forestgreen;
+    font-size: 23px;
+    text-align: end;
+}
+
+abbr:hover {
+    background-color: darkcyan;
+}
+
+#paragrafo06 {
+    border-radius: 15px;
+    border: 5px solid red;
+    color: #FF0000;
+    /* background-color: hsl(10, 100%, 64%); */
+    /* h-hue - matiz*/
+    /*s saturation - saturação*/
+    /*l luminosity- luminosidade*/
+    /*a - alpha - transparency 0 - 1 10 posibilidades */
+    background-image: linear-gradient(to right, #fff000, #fdfdfd);
+    /* background-color: rgba(red, green, blue, alpha); */
+
+}

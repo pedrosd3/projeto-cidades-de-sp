@@ -1,0 +1,51 @@
+    #link01:link {
+        color: blue;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link01:visited {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link01:hover {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link01:active {
+        color: red;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+
+
+
+
+    #link02:link {
+        color: blue;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link02:visited {
+        color: rgb(255, 0, 191);
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link02:hover {
+        color: rgb(0, 255, 170);
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    #link02:active {
+        color: rgb(184, 125, 0);
+        background-color: transparent;
+        text-decoration: none;
+    }
